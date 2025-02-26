@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Jtohautowinv1/script/refs/heads/main/etoh.lua'))()
