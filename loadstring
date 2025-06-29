@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Jtohautowinv1/script/refs/heads/main/version%20update%201.1'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Jtohautowinv1/script/refs/heads/main/raw'))()
